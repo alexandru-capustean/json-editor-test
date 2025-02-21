@@ -1,0 +1,31 @@
+.jsoneditor-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.jsoneditor table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.jsoneditor td {
+  padding: 12px !important;
+  border: 1px solid #e0e0e0 !important;
+  vertical-align: middle;
+}
+
+.jsoneditor input[type="checkbox"] {
+  margin: 0 8px;
+  width: 18px;
+  height: 18px;
+}
+
+.jsoneditor div.jsoneditor-tree {
+  background: #fff !important;
+  border: none !important;
+}
+
+.jsoneditor div.jsoneditor-field {
+  display: none !important;
+}
